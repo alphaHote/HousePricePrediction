@@ -62,5 +62,5 @@ async def make_predictions():
 async def read_item(request: Request, id: str):
     return templates.TemplateResponse("iteml.html",{"request": request})
 
-if __name__=="__main__":
-	uvicorn.run("api:app",host="0.0.0.0",port=8080,reload=True)
+#if __name__=="__main__":
+#	uvicorn.run("api:app",host="0.0.0.0",port=8080,reload=True)
