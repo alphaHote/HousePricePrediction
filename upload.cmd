@@ -1,0 +1,3 @@
+py -m twine upload --repository testpypi dist/* --verbose
+__token__
+pypi-AgENdGVzdC5weXBpLm9yZwIkYmUzMjI3YmQtZTY4NS00YTJkLTkyZDktMjFhNDBjMzE2N2JhAAIleyJwZXJtaXNzaW9ucyI6ICJ1c2VyIiwgInZlcnNpb24iOiAxfQAABiDoSSdt3p7iwU77WqwH97X9E5oCWm386l6tEYW4YTEA8g
